@@ -1,6 +1,6 @@
 <div align="center">
-<img src="![Tom-rib](https://github.com/user-attachments/assets/0a128c62-7756-4ef7-a289-9b89127c25b1)
- />
+<img src="![Tom-rib](https://github.com/user-attachments/assets/a4c34eaa-c6f3-4b53-a832-299d93c6b315)
+" align="center" style="width: 100%" />
 </div>  
   
 
