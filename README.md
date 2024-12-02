@@ -30,7 +30,7 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>    
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/cplusplus-original.svg](https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png)" alt="C++" height="50" /></a>
 </div>
 
  
