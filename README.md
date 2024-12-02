@@ -29,10 +29,14 @@
 
 ### Langage  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/cplusplus-original.svg" alt="C++" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src=" ![html5-logo](https://github.com/user-attachments/assets/c5945173-5b00-43c2-8422-da2ba57dd904)
+ " alt="HTML5" height="75" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src=" ![python-logo](https://github.com/user-attachments/assets/e98654f7-ec52-4161-8553-82bac733647e)
+   " alt="Python" height="75" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src=" ![C++-logo](https://github.com/user-attachments/assets/0a53e7bb-b8de-4f4b-876b-f1c06c530731)
+ " alt="C++" height="75" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src=" ![css3-logo](https://github.com/user-attachments/assets/660d29e1-fa80-403a-8bfa-a0cb2a5ea19c)
+  " alt="CSS3" height="75" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
