@@ -26,10 +26,10 @@
 
 ### Langage  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="./image/html5-logo.png" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="./image/css3-logo.png" alt="CSS3" height="50" /></a>    
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="./image/python-logo.png" alt="Python" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="./image/C++-logo.png" alt="C++" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="./image/html5-logo.png" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="./image/css3-logo.png" alt="CSS3" height="50" /></a>    
+<a href="https://www.python.org/" target="_blank"><img style="margin: 15px" src="./image/python-logo.png" alt="Python" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 15px" src="./image/C++-logo.png" alt="C++" height="50" /></a>
 </div>
 
  
