@@ -5,7 +5,7 @@
 
 
 
-### 🧑‍🎓 Tom, je suis étudiant en B1 IT    
+### 🧑‍🎓 Tom, je suis étudiant en B1 IT  Spécialité Administrateur système et réseaux
 -  🧑‍💻J'étudie pour devenir Ingénieur en Cybersécurités.  
   
 
