@@ -1,6 +1,5 @@
 <div align="center">
-<img src="./image/Tom-rib.png
-" align="center" style="width: 100%" />
+<img src="./image/Tom-rib.png" align="center" style="width: 100%" />
 </div>  
 
 # Tom, je suis étudiant en B1 IT  Spécialité Administrateur système et réseaux :
