@@ -16,16 +16,6 @@ Je vis à Marseille et je suis passionné par l'informatique et les nouvelles te
 
 Mon objectif professionnel est de devenir ingénieur en cybersécurité.
 
-## Parcours Académique
-
-Bachelor B1 Spécialité Administration Systèmes et Réseaux
-
-Acquisition des compétences clés en gestion et maintenance des systèmes et réseaux informatiques.
-
-Apprentissage des protocoles réseau, de la configuration des équipements et de la gestion des systèmes d'exploitation.
-
-
-
 
 ## Objectif Professionnel
 
