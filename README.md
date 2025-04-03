@@ -10,7 +10,11 @@
 # Présentation
 
 Bonjour, 
-Je suis actuellement étudiant en Bachelor B1 avec une spécialité en administration systèmes et réseaux. Je vis à Marseille et je suis passionné par l'informatique et les nouvelles technologies. Mon objectif professionnel est de devenir ingénieur en cybersécurité.
+Je suis actuellement étudiant en Bachelor B1 avec une spécialité en administration systèmes et réseaux. 
+
+Je vis à Marseille et je suis passionné par l'informatique et les nouvelles technologies.
+
+Mon objectif professionnel est de devenir ingénieur en cybersécurité.
 
 ## Parcours Académique
 
@@ -57,6 +61,12 @@ Mise en place d'un serveur de fichiers sécurisé.
 
 Participation à des groupes de projets sur la sécurité des réseaux.
 
+Configuration de Serveur TrueNas , Nas.
+
+Configuration de Serveur VoIP Asterisk.
+
+Configuration d'annuaire Dlap.
+
 
 ## Centres d'Intérêt
 
@@ -70,7 +80,9 @@ Enthousiaste à l’idée de participer à des CTF (Capture The Flag) pour amél
 
 ## Conclusion
 
-Je suis déterminé à poursuivre ma carrière dans le domaine de la cybersécurité et à devenir un expert capable de protéger les entreprises contre les menaces informatiques. Résidant à Marseille, je suis également intéressé par les opportunités locales et les collaborations au sein de la communauté technologique.
+Je suis déterminé à poursuivre ma carrière dans le domaine de la cybersécurité et à devenir un expert capable de protéger les entreprises contre les menaces informatiques. 
+Résidant à Marseille, je suis également intéressé par les opportunités locales et les collaborations au sein de la communauté technologique.
+
 N'hésitez pas à me contacter pour toute collaboration ou échange en lien avec mon domaine de prédilection.
 
   
