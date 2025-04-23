@@ -56,6 +56,10 @@ Configuration de Serveur VoIP Asterisk.
 
 Configuration d'annuaire Dlap.
 
+Configuration de Windows Serveur, Active Directory , DHCP , DNS , SMB.
+
+Configuration de Windows ADK, PXE , DNS, TFTP
+
 
 ## Centres d'Intérêt
 
