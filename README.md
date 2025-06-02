@@ -36,6 +36,8 @@ Connaissances en administration de systèmes (Windows, Linux).
 
 Gestion et configuration de réseaux.
 
+Surveillance et analyse du trafic (Wireshark)
+
 Notions de base en programmation (Python, Shell scripting).
 
 Premières notions en sécurité informatique.
@@ -56,10 +58,9 @@ Configuration de Serveur VoIP Asterisk.
 
 Configuration d'annuaire Dlap.
 
-Configuration de Windows Serveur, Active Directory , DHCP , DNS , SMB.
+Configuration de Windows Serveur, Active Directory, ADK, PXE.
 
-Configuration de Windows ADK, PXE , DNS, TFTP
-
+Configuration de serveur VPN,  DHCP , DNS , SMB, TFTP, SSH.
 
 ## Centres d'Intérêt
 
