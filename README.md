@@ -4,7 +4,7 @@
 
 # Tom, je suis étudiant en B1 IT  Spécialité Administrateur système et réseaux :
 
-## En recherche d’une alternance de 2 ans à partir de septembre 2025 
+## En recherche d’une alternance de 2 ans à partir d'Octobre 2025 
 
 # Présentation
 
