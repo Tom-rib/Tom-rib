@@ -2,14 +2,14 @@
 <img src="./image/Tom-rib.png" align="center" style="width: 100%" />
 </div>  
 
-# Tom, je suis étudiant en B1 IT  Spécialité Administrateur système et réseaux :
+# Tom, je suis étudiant en B2 IT  Spécialité Administrateur système et réseaux :
 
 ## En recherche d’une alternance de 2 ans à partir d'Octobre 2025 
 
 # Présentation
 
 Bonjour, 
-Je suis actuellement étudiant en Bachelor B1 avec une spécialité en administration systèmes et réseaux. 
+Je suis actuellement étudiant en Bachelor B2 avec une spécialité en administration systèmes et réseaux. 
 
 Je vis à Marseille et je suis passionné par l'informatique et les nouvelles technologies.
 
