@@ -2,21 +2,27 @@
 <img src="./image/Tom-rib.png" align="center" style="width: 100%" />
 </div>  
 
-# 👋 Salut, je suis Tom
+## 👋 Tom Ribero
 
-**Étudiant en Bachelor IT (B2) – Spécialité Administrateur Systèmes, Réseaux & Cybersécurité**  
-**À la recherche d’une alternance de 2 ans à partir d’Octobre 2025**  
-📍 Marseille, France
+Étudiant en **Bachelor IT (B2) – Spécialité Administrateur Systèmes, Réseaux & Cybersécurité**  
 
----
+**📍 Marseille, France           |          À la recherche d’une alternance de 2 ans à partir d’Octobre 2025**  
+
+Passionné par l’administration des systèmes, l’automatisation, la supervision d’infrastructures et la cybersécurité.  
+
+Mon objectif est de progresser vers l’administration **cloud / SysOps**, puis de devenir **DevOps**, tout en développant une maîtrise complète de la cybersécurité.  
+Je souhaite rejoindre une entreprise dynamique pour continuer à apprendre auprès de professionnels expérimentés et contribuer à la fiabilité, la performance et la sécurité des systèmes.
 
 ## 💻 À propos de moi
-Étudiant passionné par l’informatique et les nouvelles technologies, je vise à devenir **ingénieur en cybersécurité**.  
+
+Étudiant passionné par l’informatique et les nouvelles technologies, je vise à devenir **ingénieur DevOps avec expertise Cloud et cybersécurité**.  
+
 Je souhaite approfondir mes compétences dans :  
 - Sécurisation des systèmes et réseaux  
 - Détection et prévention des attaques informatiques  
 - Mise en place de politiques de sécurité  
-- Analyse et gestion des risques
+- Analyse et gestion des risques  
+
 
 ---
 
