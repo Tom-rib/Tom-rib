@@ -13,6 +13,8 @@ Passionné par l’administration des systèmes, l’automatisation, la supervis
 Mon objectif est de progresser vers l’administration **cloud / SysOps**, puis de devenir **DevOps**, tout en développant une maîtrise complète de la cybersécurité.  
 Je souhaite rejoindre une entreprise dynamique pour continuer à apprendre auprès de professionnels expérimentés et contribuer à la fiabilité, la performance et la sécurité des systèmes.
 
+🌐 Voir le portfolio en ligne : https://tom-rib.github.io/Portfolio_Tom_Ribero/
+
 ## 💻 À propos de moi
 
 Étudiant passionné par l’informatique et les nouvelles technologies, je vise à devenir **ingénieur DevOps avec expertise Cloud et cybersécurité**.  
