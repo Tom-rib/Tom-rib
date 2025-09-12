@@ -2,77 +2,55 @@
 <img src="./image/Tom-rib.png" align="center" style="width: 100%" />
 </div>  
 
-# Tom, je suis étudiant en B1 IT  Spécialité Administrateur système et réseaux :
+## 👋 Tom Ribero
 
-## En recherche d’une alternance de 2 ans à partir de septembre 2025 
+Étudiant en **Bachelor IT (B2) – Spécialité Administrateur Systèmes, Réseaux & Cybersécurité**  
 
-# Présentation
+**📍 Marseille, France           |          À la recherche d’une alternance de 2 ans à partir d’Octobre 2025**  
 
-Bonjour, 
-Je suis actuellement étudiant en Bachelor B1 avec une spécialité en administration systèmes et réseaux. 
+Passionné par l’administration des systèmes, l’automatisation, la supervision d’infrastructures et la cybersécurité.  
 
-Je vis à Marseille et je suis passionné par l'informatique et les nouvelles technologies.
+Mon objectif est de progresser vers l’administration **cloud / SysOps**, puis de devenir **DevOps**, tout en développant une maîtrise complète de la cybersécurité.  
+Je souhaite rejoindre une entreprise dynamique pour continuer à apprendre auprès de professionnels expérimentés et contribuer à la fiabilité, la performance et la sécurité des systèmes.
 
-Mon objectif professionnel est de devenir ingénieur en cybersécurité.
+🌐 Voir le portfolio en ligne : [https://tom-rib.github.io/Portfolio/](https://tom-rib.github.io/Portfolio/)
 
+## 💻 À propos de moi
 
-## Objectif Professionnel
+Étudiant passionné par l’informatique et les nouvelles technologies, je vise à devenir **ingénieur DevOps avec expertise Cloud et cybersécurité**.  
 
-Mon ambition est de devenir un ingénieur en cybersécurité. Pour cela, je compte approfondir mes connaissances et compétences dans les domaines suivants :
-
-Sécurisation des réseaux et systèmes.
-
-Détection et prévention des attaques informatiques.
-
-Mise en place de politiques de sécurité.
-
-Analyse et gestion des risques.
+Je souhaite approfondir mes compétences dans :  
+- Sécurisation des systèmes et réseaux  
+- Détection et prévention des attaques informatiques  
+- Mise en place de politiques de sécurité  
+- Analyse et gestion des risques  
 
 
-## Compétences Actuelles
+---
 
+## 🛠 Compétences
+- **Systèmes** : Administration Windows & Linux  
+- **Réseaux** : Configuration, gestion, surveillance (Wireshark)  
+- **Sécurité** : Notions en cybersécurité, mise en place de politiques de sécurité  
+- **Programmation** : Python, Shell scripting  
 
-Connaissances en administration de systèmes (Windows, Linux).
+---
 
-Gestion et configuration de réseaux.
+## 📂 Projets et réalisations
+- Configuration de réseaux locaux multi-sous-réseaux  
+- Serveurs : TrueNAS, VoIP Asterisk, Windows Server (AD, ADK, PXE)  
+- Configuration de services : VPN, DHCP, DNS, SMB, TFTP, SSH  
+- Mise en place de serveurs de fichiers sécurisés  
+- Participation à des projets de sécurité réseau  
 
-Notions de base en programmation (Python, Shell scripting).
+---
 
-Premières notions en sécurité informatique.
+## 🎯 Centres d’intérêt
+- Cybersécurité et challenges techniques  
+- Cryptographie et protection des données  
+- Participation à des **CTF (Capture The Flag)** pour améliorer mes compétences  
 
-
-## Projets et Réalisations
-
-
-Configuration d'un réseau local avec plusieurs sous-réseaux.
-
-Mise en place d'un serveur de fichiers sécurisé.
-
-Participation à des groupes de projets sur la sécurité des réseaux.
-
-Configuration de Serveur TrueNas , Nas.
-
-Configuration de Serveur VoIP Asterisk.
-
-Configuration d'annuaire Dlap.
-
-
-## Centres d'Intérêt
-
-
-Passionné par la cybersécurité et les défis techniques qu'elle comporte.
-
-Intérêt pour la cryptographie et les techniques de protection des données.
-
-Enthousiaste à l’idée de participer à des CTF (Capture The Flag) pour améliorer mes compétences en sécurité.
-
-
-## Conclusion
-
-Je suis déterminé à poursuivre ma carrière dans le domaine de la cybersécurité et à devenir un expert capable de protéger les entreprises contre les menaces informatiques. 
-Résidant à Marseille, je suis également intéressé par les opportunités locales et les collaborations au sein de la communauté technologique.
-
-N'hésitez pas à me contacter pour toute collaboration ou échange en lien avec mon domaine de prédilection.
+---
 
   
 ## 🌐 Socials:
