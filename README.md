@@ -6,7 +6,7 @@
 
 Étudiant en **Bachelor IT – Spécialité Administrateur Systèmes, Réseaux & Cybersécurité** (RNCP niveau 6) à *La Plateforme*, Marseille  
 
-**📍 Marseille, France           |          À la recherche d’une alternance de 2 ans**  
+**📍 Marseille, France           |          À la recherche d’une alternance de 1 an à partir de septembre**  
 
 Passionné par l’administration des systèmes, l’**automatisation (Ansible)**, la **conteneurisation (Kubernetes, Docker)**, le **Cloud (AWS)** et la cybersécurité.  
 
